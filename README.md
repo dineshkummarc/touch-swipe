@@ -1,7 +1,7 @@
 #touch-swipe
 Creating Swipeable Side Menu For the Web
 
-![First](https://github.com/dineshkummarc/touch-swipe/blob/master/screenshots/1.jpg)
-![Second](https://github.com/dineshkummarc/touch-swipe/blob/master/screenshots/2.jpg)
-![Third](https://github.com/dineshkummarc/touch-swipe/blob/master/screenshots/3.jpg)
-![Four](https://github.com/dineshkummarc/touch-swipe/blob/master/screenshots/4.jpg)
+![1](https://github.com/dineshkummarc/touch-swipe/blob/master/screenshots/1.jpg)
+![2](https://github.com/dineshkummarc/touch-swipe/blob/master/screenshots/2.jpg)
+![3](https://github.com/dineshkummarc/touch-swipe/blob/master/screenshots/3.jpg)
+![4](https://github.com/dineshkummarc/touch-swipe/blob/master/screenshots/4.jpg)
